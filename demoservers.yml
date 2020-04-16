@@ -79,5 +79,3 @@ Resources:
         Ref: WebAppLaunchConfig
       MinSize: "3"
       MaxSize: "5"
-      TargetGroupARNs:
-        - Ref: WebAppTargetGroup
